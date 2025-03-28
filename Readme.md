@@ -74,6 +74,7 @@ Add appointment reminders for users.
 Improve user dashboards with past medical records & analytics.
 Security & Performance Optimizations
 Add rate limiting & CORS handling.
+
 Implement MongoDB indexing & query optimizations.
 Set up logging & error tracking (Winston/Sentry).[IF NEEDED]
 

@@ -78,3 +78,5 @@ Add rate limiting & CORS handling.
 Implement MongoDB indexing & query optimizations.
 Set up logging & error tracking (Winston/Sentry).[IF NEEDED]
 
+### DEPLOYED FRONTEND LINK:
+https://med-manager-pro.vercel.app/

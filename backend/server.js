@@ -11,6 +11,7 @@ connectDB();
 
 // api endpoints
 app.use("/api/user", userRouter) // user routes
+app.use("/api/admin", adminRouter)
 // middleware
 app.use(express.json());
 app.use(cors());
